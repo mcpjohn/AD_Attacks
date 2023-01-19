@@ -3,7 +3,7 @@
 # Ataques_AD
 
 
-https://odysee.com/@s4vitar:f/pentesting-en-entornos-empresariales:8
+
 
 ## INDICE:
 - [Ataque SambaRelay IPv4](https://github.com/CYBER-Softcom/Ataques_AD/blob/main/README.md#ataque-sambarelay-ipv4)
